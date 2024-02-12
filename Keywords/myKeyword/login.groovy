@@ -24,14 +24,13 @@ import internal.GlobalVariable
 public class login {
 	@Keyword
 	def static void loginPage() {
-		
-	WebUI.setText(findTestObject('Object Repository/Login/Page_Advantage Shopping/input_username'), 'asepmahmudin')
 
-	WebUI.setEncryptedText(findTestObject('Object Repository/Login/Page_Advantage Shopping/input_password'), 'NEZKLnAlcz5D7xppCzl9wA==')
+		WebUI.setText(findTestObject('Object Repository/Login/Page_Advantage Shopping/input_username'), 'asepmahmudin')
 
-	WebUI.click(findTestObject('Object Repository/Login/Page_Advantage Shopping/input_remember_me'))
+		WebUI.setEncryptedText(findTestObject('Object Repository/Login/Page_Advantage Shopping/input_password'), 'NEZKLnAlcz5D7xppCzl9wA==')
 
-	WebUI.click(findTestObject('Object Repository/Login/Page_Advantage Shopping/button_SIGN IN'))
-	
+		WebUI.click(findTestObject('Object Repository/Login/Page_Advantage Shopping/input_remember_me'))
+
+		WebUI.click(findTestObject('Object Repository/Login/Page_Advantage Shopping/button_SIGN IN'))
 	}
 }

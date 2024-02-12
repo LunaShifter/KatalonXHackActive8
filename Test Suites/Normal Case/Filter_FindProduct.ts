@@ -15,7 +15,7 @@
       <guid>4a1f4a98-4db0-4e17-9643-763ec8c347e3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Filter</testCaseId>
+      <testCaseId>Test Cases/Normal/Filter</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>92eacabe-48cb-429a-a44c-170e476993d7</id>
@@ -37,7 +37,7 @@
       <guid>e7f56803-8e1e-4c4a-b289-b8898f0ee1d1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Find Product</testCaseId>
+      <testCaseId>Test Cases/Normal/Find Product</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
