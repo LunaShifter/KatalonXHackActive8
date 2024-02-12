@@ -32,7 +32,7 @@ WebUI.navigateToUrl('https://advantageonlineshopping.com/')
 //WebUI.sendKeys(findTestObject('Object Repository/Filter/Page_Advantage Shopping/input_password'), Keys.chord(Keys.ENTER))
 
 WebUI.click(findTestObject('Object Repository/Filter/Page_Advantage Shopping/div_LAPTOPS                        Shop Now'))
-
+'Filter Product'
 //def a=spesifikasi;
 println('ini spesifikasi'+ spesifikasi)
 switch (spesifikasi) {
