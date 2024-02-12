@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_This is a demo site. Do not use real data</name>
+   <tag></tag>
+   <elementGuidId>7dd93ac5-3143-4506-afe8-4d401365cebd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.roboto-light.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='paymentMethod']/div/div[2]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>819ffd34-1080-4d97-bd89-35dc16767432</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>roboto-light ng-binding</value>
+      <webElementGuid>d125644a-25c0-47ad-97ab-2d74f7371124</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This is a demo site. Do not use real data.</value>
+      <webElementGuid>124cff5c-c413-4eee-a9cb-aae1ae40a980</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;paymentMethod&quot;)/div[1]/div[2]/div[@class=&quot;notice&quot;]/p[@class=&quot;roboto-light ng-binding&quot;]</value>
+      <webElementGuid>f13a0b46-2ba9-4e20-9ba3-4e8fddcd7d8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='paymentMethod']/div/div[2]/div/p</value>
+      <webElementGuid>a0b86133-e222-4c29-9997-50dd7d85300f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/p</value>
+      <webElementGuid>91863d17-e047-4a79-890d-d3f85b42522a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'This is a demo site. Do not use real data.' or . = 'This is a demo site. Do not use real data.')]</value>
+      <webElementGuid>96911cb2-5a0d-4dcb-8b91-6c97caa97dfa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

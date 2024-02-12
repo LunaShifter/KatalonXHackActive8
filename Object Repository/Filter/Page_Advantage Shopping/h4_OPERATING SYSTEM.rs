@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_OPERATING SYSTEM</name>
+   <tag></tag>
+   <elementGuidId>dad42063-22f2-49a6-aa57-cd43ddabf966</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#accordionAttrib1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h4[@id='accordionAttrib1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>613ec356-521b-4084-8de8-cbaac3f90a20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>67d9ac30-fc86-4ec6-aa3d-faad3116e2ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>accordion roboto-regular arrowDown ng-binding</value>
+      <webElementGuid>7a64e6a1-be11-4da6-b00f-36449f0bcb3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>accordionAttrib1</value>
+      <webElementGuid>5d5d49e8-8022-45e9-86da-ab90dfde7302</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>toggleColapse('accordionAttrib' + $index)</value>
+      <webElementGuid>6f576bc5-7dd9-4057-b967-10d170251364</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>link</value>
+      <webElementGuid>20e7bbfc-2016-4000-ac57-89f590498239</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        OPERATING SYSTEM
+                    </value>
+      <webElementGuid>2735217b-17a2-4088-8649-2f0ce0232e1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accordionAttrib1&quot;)</value>
+      <webElementGuid>db130bd0-e36b-45de-b65a-747acaf9f3fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h4[@id='accordionAttrib1']</value>
+      <webElementGuid>99ffad38-bae6-4dac-b22c-2bc4851c8fb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mobileSlide']/ul/li[3]/h4</value>
+      <webElementGuid>7c4715c1-7e95-496c-a690-bb564f13ba4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/h4</value>
+      <webElementGuid>a379e2b5-3f52-42b2-991f-ea9a2c9396e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[@href = 'javascript:void(0)' and @id = 'accordionAttrib1' and (text() = '
+                        OPERATING SYSTEM
+                    ' or . = '
+                        OPERATING SYSTEM
+                    ')]</value>
+      <webElementGuid>c6342abd-87d9-49d2-a5d9-9601a324b386</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_LAPTOPS</name>
+   <tag></tag>
+   <elementGuidId>87b84193-5062-4aa9-bfff-a9a7deb11a93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'LAPTOPS')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7716464b-f72a-407d-a50c-6ec95d270b31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>redirect('/category/' + breadCrumbCategoryName + '/' + product.categoryId)</value>
+      <webElementGuid>ffee3253-f80b-4c78-a99b-fbd6740cb44e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>a103c6d0-53f5-4e51-b340-f5e765bf6230</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> LAPTOPS </value>
+      <webElementGuid>637eebec-09aa-47a1-8517-3f3bb1760a1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;uiview ng-scope&quot;]/nav[@class=&quot;pages fixedImportant productImage ng-scope&quot;]/a[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>c78a39d2-cf32-43d7-8660-67afb49398cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'LAPTOPS')]</value>
+      <webElementGuid>6c1acaec-ab43-477b-94ec-d1b3c251474c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[22]</value>
+      <webElementGuid>c4a2bb4b-46d7-4ca5-b363-be1da46d1b74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/a[2]</value>
+      <webElementGuid>0d2c7bc0-f8d0-4f3d-acf3-ac73ec8cf760</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = ' LAPTOPS ' or . = ' LAPTOPS ')]</value>
+      <webElementGuid>99d36c0e-a4cf-457f-9fab-2717a6277751</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

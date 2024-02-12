@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_QTY 4</name>
+   <tag></tag>
+   <elementGuidId>4b9ccc1d-01fb-41b2-a68c-71afcb9c7c83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a > label.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='product']/td[2]/a/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>d253e397-6856-4dfb-8428-2798a5db71d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>856844f1-a8a5-4e2c-83aa-bfa08e05a5fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>QTY: 4</value>
+      <webElementGuid>1281f1da-eb3a-4ddb-be84-0676fea7bab7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/header[1]/nav[1]/ul[@class=&quot;roboto-light desktop-handler&quot;]/li[2]/ul[1]/li[1]/tool-tip-cart[@id=&quot;toolTipCart&quot;]/div[1]/table[1]/tbody[1]/tr[@id=&quot;product&quot;]/td[2]/a[1]/label[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>882b6e4e-5cd4-4ff9-9028-e2675654bfc9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='product']/td[2]/a/label</value>
+      <webElementGuid>f1fd90b8-938f-4b45-9d7d-3fcaa6e1b471</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/label</value>
+      <webElementGuid>99d2898c-9d70-4d1f-99d6-1991c3cbccee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'QTY: 4' or . = 'QTY: 4')]</value>
+      <webElementGuid>18a028c0-143f-4beb-92f0-b7a6cf77f33b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

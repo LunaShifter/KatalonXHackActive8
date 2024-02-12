@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_removeProduct iconCss iconX</name>
+   <tag></tag>
+   <elementGuidId>b7817fad-3e06-4629-801d-79172caa57fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.removeProduct.iconCss.iconX</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='product']/td[3]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e4b53d16-e3a2-4e74-88f5-0ef45643fdc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>removeProduct iconCss iconX</value>
+      <webElementGuid>ff3d8963-8cfb-44dc-a750-fd951c1b8c1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product&quot;)/td[3]/div[@class=&quot;closeDiv&quot;]/div[@class=&quot;removeProduct iconCss iconX&quot;]</value>
+      <webElementGuid>fb19c184-6bf9-45cc-8f55-ec764585c57c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='product']/td[3]/div/div</value>
+      <webElementGuid>28d42c75-1f99-4307-8d60-c463c785d31b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/div/div</value>
+      <webElementGuid>367c94c8-1c9d-4bdb-88f4-5a37acf5f414</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

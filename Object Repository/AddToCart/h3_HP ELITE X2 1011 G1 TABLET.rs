@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_HP ELITE X2 1011 G1 TABLET</name>
+   <tag></tag>
+   <elementGuidId>d536b109-cf38-4ba6-8469-6ebc44625f7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='product']/td[2]/a/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>e40d54bf-9cd8-485a-95d4-b4015fed0266</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>3691a6d8-a25a-41ed-b3a0-bd7147a0956e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HP ELITE X2 1011 G1 TABLET</value>
+      <webElementGuid>f69050bd-9de3-4d79-b00b-3b9dc90f7254</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/header[1]/nav[1]/ul[@class=&quot;roboto-light desktop-handler&quot;]/li[2]/ul[1]/li[1]/tool-tip-cart[@id=&quot;toolTipCart&quot;]/div[1]/table[1]/tbody[1]/tr[@id=&quot;product&quot;]/td[2]/a[1]/h3[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>56dd39e5-2ba3-4cdc-9e9d-1ee646054b21</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='product']/td[2]/a/h3</value>
+      <webElementGuid>35c96262-3a5e-40e6-8ee9-7916108317cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>7899e65e-eabd-4e00-be4d-9aad0c7bab09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'HP ELITE X2 1011 G1 TABLET' or . = 'HP ELITE X2 1011 G1 TABLET')]</value>
+      <webElementGuid>1e208e77-757a-41f7-ab19-f74303cef391</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
